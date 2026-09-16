@@ -1,0 +1,6 @@
+{
+  "name": "Cake Lovers",
+  "description": "Artisanal Cake Ordering & Custom Studio with interactive multi-tier designer, live tracking, branch locator, and bakery kitchen order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
